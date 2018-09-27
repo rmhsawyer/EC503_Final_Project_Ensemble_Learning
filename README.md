@@ -8,6 +8,6 @@ Ensemble Learning Method including: boosting, bagging, stacking
 Please have a look at  our project report bagging-boosting-stacking-12.pdf
 
 # Contributors
-Minghe Ren (sawyermh@bu.edu)
-Sijie Xiang (xiangs18@bu.edu)
-Xinqiao Wei (weixq95@bu.edu)
+Minghe Ren (sawyermh@bu.edu), 
+Sijie Xiang (xiangs18@bu.edu), 
+Xinqiao Wei (weixq95@bu.edu), 
