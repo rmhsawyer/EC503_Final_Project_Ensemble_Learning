@@ -6,6 +6,7 @@ Ensemble Learning Method including: boosting, bagging, stacking
 # Details 
 
 Please have a look at  our project report bagging-boosting-stacking-12.pdf
+![picture](/image/demo1.png)
 
 # Contributors
 Minghe Ren (sawyermh@bu.edu), 
